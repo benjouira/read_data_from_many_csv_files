@@ -27,4 +27,3 @@ df = pd.concat(li, axis=0 , ignore_index=True)
 print(type(df))
 print(len(df))
 print(df)
-
